@@ -16,3 +16,4 @@ dist
 .DS_Store
 .cache
 .pytest_cache/
+.venv
